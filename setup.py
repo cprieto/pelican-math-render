@@ -7,7 +7,7 @@ with open('README.rst') as readme_file:
 
 
 setup(
-    name='pelican-render-math',
+    name='pelican_render_math',
     version='0.1.1',
     description='Pelican plugin to easy math rendering',
     long_description=readme,
