@@ -15,7 +15,7 @@ setup(
     license='MIT',
     author='',
     author_email='',
-    py_modules=['render_math'],
+    py_modules=['pelican-render_math'],
     requires=['pelican'],
     include_package_data=True,
     classifiers=[
